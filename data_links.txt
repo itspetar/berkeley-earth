@@ -1,0 +1,15 @@
+Data links:
+https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Global/Land_and_Ocean_complete.txt
+https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Regional/TAVG/africa-TAVG-Trend.txt
+https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Regional/TAVG/antarctica-TAVG-Trend.txt
+https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Regional/TAVG/asia-TAVG-Trend.txt
+https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Regional/TAVG/australia-TAVG-Trend.txt
+https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Regional/TAVG/europe-TAVG-Trend.txt
+https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Regional/TAVG/north-america-TAVG-Trend.txt
+https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Regional/TAVG/south-america-TAVG-Trend.txt
+
+see e.g.
+https://berkeleyearth.org/temperature-region/asia
+    Data Table link under first plot
+https://berkeleyearth.org/data/
+    Global Time Series Data > Global Monthly Averages > Monthly Global Average Temperature link
